@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "ship87/laraword-framework",
+    "description": "App on Laravel framework for Wordpress plugin LaraWord",
+    "keywords": ["framework", "laravel", "laraword"],
     "license": "MIT",
     "type": "project",
     "require": {
