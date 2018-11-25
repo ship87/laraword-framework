@@ -21,7 +21,7 @@ define('LARAVEL_START', microtime(true));
 |
 */
 
-require __DIR__.'/../vendor/autoload.php';
+require dirname(__FILE__, 5).'/vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
